@@ -1,0 +1,16 @@
+{
+    "name": "Ikonoclast.PropertyAttributes.RuntimeTests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:00dcb24dd87fe3c4a88ec7c0dceb22bc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
